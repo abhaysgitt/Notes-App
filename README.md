@@ -1,6 +1,6 @@
 # Notes App
 
-This is a modern and responsive notes app frontend designed to help users create, organize, and manage their notes effectively. The application features a user-friendly interface that allows users to add, edit, and delete notes seamlessly.
+This is a modern & responsive notes app frontend designed to help users create, organize, and manage their notes effectively. The application features a user-friendly interface that allows users to add, edit, and delete notes seamlessly.
 
 ## Features
 
