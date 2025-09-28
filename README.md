@@ -1,7 +1,6 @@
 # Notes App Frontend
 
-![Notes App Logo](link-to-your-logo.png)
-- check it out : **https://abhaysgithub.github.io/notes-app-frontend/**
+- check it out : **https://abhaysgitt.github.io/Notes-App/**
 
 ## Description
 
@@ -13,7 +12,6 @@ This is a modern and responsive notes app frontend designed to help users create
 - Create, edit, and delete notes easily
 - Organize notes with tags or categories
 - Search functionality to quickly find notes
-- User authentication and profile management (if applicable)
 - Sync notes across devices (if applicable)
 - Dark mode and light mode themes for user preference
 
@@ -21,6 +19,6 @@ This is a modern and responsive notes app frontend designed to help users create
 
 To set up the notes app frontend on your local machine, follow these steps:
 
-1. Clone the repository:
+Clone the repository:
    ```bash
-   git clone https://github.com/username/notes-app-frontend.git
+   git clone https://github.com/abhaysgitt/Notes-App.git
