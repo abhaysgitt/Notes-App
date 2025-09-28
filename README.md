@@ -1,4 +1,4 @@
-# Notes App Frontend
+# Notes App
 
 - check it out : **https://abhaysgitt.github.io/Notes-App/**
 
